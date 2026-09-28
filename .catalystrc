@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "67649000000030009",
+      "name": "AI-Telephony-Backend",
+      "domain": {
+        "id": "50046218224",
+        "name": "ai-telephony-backend-60085182165.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60085182165",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

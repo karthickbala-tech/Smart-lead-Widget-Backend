@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "telephony-service"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "telephony-service",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "karthickbala112@gmail.com",
+	"dependencies": {
+		"@zcatalyst/auth": "latest",
+		"@zcatalyst/cache": "latest",
+		"dotenv": "^18.0.3",
+		"twilio": "^6.1.1"
+	}
+}
